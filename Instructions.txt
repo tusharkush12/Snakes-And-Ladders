@@ -1,0 +1,4 @@
+1.)The code is compiled in Java 7.
+
+
+2) Class GameLauncher.java in package snakeLadders.main is the startring point for thr application.
